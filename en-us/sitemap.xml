@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://that-rationalist.github.io/articles/pagan-and-christian-in-an-age-of-anxiety-zhCN/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
     <loc>https://that-rationalist.github.io/posts/</loc>
-    <lastmod>2024-07-29T19:57:48+12:00</lastmod>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/tags/</loc>
-    <lastmod>2024-07-29T19:57:48+12:00</lastmod>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -19,7 +22,7 @@
                 />
   </url><url>
     <loc>https://that-rationalist.github.io/</loc>
-    <lastmod>2024-07-29T19:57:48+12:00</lastmod>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -31,19 +34,37 @@
                 href="https://that-rationalist.github.io/"
                 />
   </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E5%8F%A4%E5%B8%8C%E8%87%98/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E5%93%B2%E5%AD%B8/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E5%9F%BA%E7%9D%A3%E6%95%99/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E5%9F%BA%E7%9D%A3%E6%95%99%E6%AD%B7%E5%8F%B2/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E5%BC%82%E6%95%99/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E6%97%A9%E6%9C%9F%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E6%AD%B7%E5%8F%B2/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
+    <loc>https://that-rationalist.github.io/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/</loc>
+    <lastmod>2024-10-04T21:21:00+13:00</lastmod>
+  </url><url>
     <loc>https://that-rationalist.github.io/tags/%E5%8D%81%E5%AD%97%E6%9E%B6%E7%9A%84%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2024-07-29T19:57:48+12:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/tags/%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2024-07-29T19:57:48+12:00</lastmod>
   </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E5%9F%BA%E7%9D%A3%E6%95%99/</loc>
-    <lastmod>2024-07-29T19:57:48+12:00</lastmod>
-  </url><url>
     <loc>https://that-rationalist.github.io/articles/alleged-christian-evidence-in-pompeii-ruins/</loc>
-    <lastmod>2024-07-29T19:57:48+12:00</lastmod>
-  </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E6%97%A9%E6%9C%9F%E5%9F%BA%E7%9D%A3%E6%95%99%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2024-07-29T19:57:48+12:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/articles/early-history-of-god-chinese-edition/</loc>
@@ -53,9 +74,6 @@
     <lastmod>2024-06-06T15:54:53+12:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/tags/%E4%BA%9E%E4%BC%AF%E6%8B%89%E7%BD%95%E8%AB%B8%E6%95%99/</loc>
-    <lastmod>2024-06-06T15:54:53+12:00</lastmod>
-  </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E6%AD%B7%E5%8F%B2/</loc>
     <lastmod>2024-06-06T15:54:53+12:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/tags/%E7%8C%B6%E5%A4%AA%E6%95%99/</loc>
@@ -76,9 +94,6 @@
     <loc>https://that-rationalist.github.io/tags/%E6%A5%8A%E9%98%BF%E6%96%AF%E6%9B%BC/</loc>
     <lastmod>2024-04-22T17:41:40+12:00</lastmod>
   </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2024-04-22T17:41:40+12:00</lastmod>
-  </url><url>
     <loc>https://that-rationalist.github.io/tags/%E6%91%A9%E8%A5%BF%E8%88%87%E4%B8%80%E7%A5%9E%E6%95%99/</loc>
     <lastmod>2023-02-04T20:32:40+13:00</lastmod>
   </url><url>
@@ -88,9 +103,6 @@
     <loc>https://that-rationalist.github.io/tags/%E5%BF%83%E7%90%86%E5%AD%B8/</loc>
     <lastmod>2023-02-04T20:32:40+13:00</lastmod>
   </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E5%9F%BA%E7%9D%A3%E6%95%99%E6%AD%B7%E5%8F%B2/</loc>
-    <lastmod>2022-12-24T12:05:55+13:00</lastmod>
-  </url><url>
     <loc>https://that-rationalist.github.io/articles/brief-history-of-bible/</loc>
     <lastmod>2022-12-24T12:05:55+13:00</lastmod>
   </url><url>
@@ -99,9 +111,6 @@
   </url><url>
     <loc>https://that-rationalist.github.io/tags/%E8%81%96%E7%B6%93%E7%89%88%E6%9C%AC%E5%95%8F%E9%A1%8C/</loc>
     <lastmod>2022-12-24T12:05:55+13:00</lastmod>
-  </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E5%93%B2%E5%AD%B8/</loc>
-    <lastmod>2022-12-20T22:00:40+13:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/articles/quest-of-historical-jesus/</loc>
     <lastmod>2022-12-20T22:00:40+13:00</lastmod>
@@ -131,9 +140,6 @@
     <lastmod>2021-04-24T07:28:17+13:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/articles/ancient-greek-epistemology-origin/</loc>
-    <lastmod>2021-02-23T21:24:40+13:00</lastmod>
-  </url><url>
-    <loc>https://that-rationalist.github.io/tags/%E5%8F%A4%E5%B8%8C%E8%87%98/</loc>
     <lastmod>2021-02-23T21:24:40+13:00</lastmod>
   </url><url>
     <loc>https://that-rationalist.github.io/tags/%E7%9F%A5%E8%AD%98%E8%AB%96/</loc>
